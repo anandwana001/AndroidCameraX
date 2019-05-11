@@ -1,4 +1,4 @@
-# CameraX  [![MindOrks](https://img.shields.io/badge/MindOrks-Akshay%20Nandwana-%2311209F.svg)](https://blog.mindorks.com/play-with-flexbox-layout-for-android)
+# CameraX  [![MindOrks](https://img.shields.io/badge/MindOrks-%2311209F.svg)](https://blog.mindorks.com/getting-started-with-camerax)
 [![forthebadge](http://forthebadge.com/images/badges/built-for-android.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/check-it-out.svg)](http://forthebadge.com)
